@@ -1,0 +1,4 @@
+﻿  Aircon.cpp
+C:\Users\user\source\repos\Class\Aircon\Aircon.cpp(10,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\user\source\repos\Class\Aircon\Aircon.cpp(10,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Aircon.vcxproj -> C:\Users\user\source\repos\Class\x64\Debug\Aircon.exe
